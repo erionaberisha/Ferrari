@@ -1,7 +1,7 @@
 This project is a web application built using React for showcasing Ferrari cars and related functionalities. The application provides an intuitive and visually appealing interface for users to explore different models, view details, and interact with various features of Ferrari cars.
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/ferrari-react-project.git
+git clone https://github.com/erionaberisha/ferrari.git
 Navigate to the project directory:
 cd ferrari-react-project
 Install dependencies:
